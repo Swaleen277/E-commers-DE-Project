@@ -1,0 +1,32 @@
+[
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_customers_dataset.csv",
+        "p_file_name":"olist_customers_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_geolocation_dataset.csv",
+        "p_file_name":"olist_geolocation_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_order_items_dataset.csv",
+        "p_file_name":"olist_order_items_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_order_reviews_dataset.csv",
+        "p_file_name":"olist_order_reviews_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_orders_dataset.csv",
+        "p_file_name":"olist_orders_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_products_dataset.csv",
+        "p_file_name":"olist_products_dataset.csv"
+    },
+    {
+        "p_rel_url":"mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_sellers_dataset.csv",
+        "p_file_name":"olist_sellers_dataset.csv"
+    }
+    
+
+]
